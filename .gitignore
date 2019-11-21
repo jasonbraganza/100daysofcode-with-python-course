@@ -113,3 +113,5 @@ rock_paper_scissors.sqlite
 *.tps
 
 **.DS_Store
+100days
+.vscode/settings.json
